@@ -69,11 +69,11 @@ public class MainActivity extends AppCompatActivity {
         startActivity(i);
     }*/
 
-    public void inregistrareClick(View view)
+    /*public void inregistrareClick(View view)
     {
         Intent i = new Intent(MainActivity.this, Inregistrare.class);
         startActivityForResult(i, 1);
-    }
+    }*/
 
     public void onRadioButtonClicked(View view)
     {

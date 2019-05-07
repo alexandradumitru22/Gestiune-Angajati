@@ -17,4 +17,12 @@
     <string name="functie_de_manager">Functie de manager</string>
     <string name="alegeti_departamentul">Alegeti departamentul din care faceti parte:</string>
     <string name="alegeti_managerul">Daca nu detineti functie de manager, alegeti managerul dumneavoastra:</string>
+    <string name="butonPoza">schimbaProfilA</string>
+    <string name="profilA">profilA</string>
+    <string name="activitatile_mele">Activitatile mele</string>
+    <string name="activitatileMele">SpreActivitatiAngajat</string>
+    <string name="setari_cont">Setari cont</string>
+    <string name="tvUsername">Username:</string>
+    <string name="tvDepartament">Departament:</string>
+    <string name="deconectare">Deconectare</string>
 </resources>

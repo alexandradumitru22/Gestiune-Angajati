@@ -9,7 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".ProfilManager"></activity>
+        <activity android:name=".SetariProfilAngajat"></activity>
+        <activity android:name=".ActivitatiAngajat" />
+        <activity android:name=".ProfilManager" />
         <activity android:name=".ProfilAngajat" />
         <activity android:name=".Inregistrare" />
         <activity android:name=".MainActivity">
