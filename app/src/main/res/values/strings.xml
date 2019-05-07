@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Gestiune Angajati</string>
+    <string name="todo" />
+    <string name="id_utilizator">ID Utilizator</string>
+    <string name="parola">Parola</string>
+    <string name="butonLogin">Login</string>
+    <string name="linkInregistrare">Nu ai cont? Înregistrează-te!</string>
+    <string name="rbAngajat">Angajat</string>
+    <string name="rbManager">Manager</string>
+    <string name="todo2">TODO</string>
+    <string name="nume">Nume</string>
+    <string name="prenume">Prenume</string>
+    <string name="e_mail">E-mail</string>
+    <string name="username">Username</string>
+    <string name="data_nasterii">Data nasterii</string>
+    <string name="inregistrare">Înregistrare</string>
+    <string name="functie_de_manager">Functie de manager</string>
+    <string name="alegeti_departamentul">Alegeti departamentul din care faceti parte:</string>
+    <string name="alegeti_managerul">Daca nu detineti functie de manager, alegeti managerul dumneavoastra:</string>
+</resources>
