@@ -9,7 +9,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".SetariProfilAngajat"></activity>
+        <activity android:name=".SetariProfilManager"></activity>
+        <activity android:name=".Progres" />
+        <activity android:name=".Agenda" />
+        <activity android:name=".Angajati" />
+        <activity android:name=".SetariProfilAngajat" />
         <activity android:name=".ActivitatiAngajat" />
         <activity android:name=".ProfilManager" />
         <activity android:name=".ProfilAngajat" />
