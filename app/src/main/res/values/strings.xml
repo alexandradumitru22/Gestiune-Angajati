@@ -30,4 +30,6 @@
     <string name="progres">Progres</string>
     <string name="setari">Setari</string>
     <string name="scrie_aici">Scrie aici...</string>
+    <string name="parola_veche">Parola veche</string>
+    <string name="salveaza_modificari">Salveaza modificari</string>
 </resources>
