@@ -32,4 +32,5 @@
     <string name="scrie_aici">Scrie aici...</string>
     <string name="parola_veche">Parola veche</string>
     <string name="salveaza_modificari">Salveaza modificari</string>
+    <string name="parola_noua">Parola noua</string>
 </resources>

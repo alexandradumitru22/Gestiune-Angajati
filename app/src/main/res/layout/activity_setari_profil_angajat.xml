@@ -100,7 +100,7 @@
         android:autofillHints=""
         android:drawableStart="@drawable/ic_password"
         android:ems="10"
-        android:hint="@string/parola"
+        android:hint="@string/parola_noua"
         android:inputType="textPassword"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
