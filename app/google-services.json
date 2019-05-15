@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "575619786860",
+    "firebase_url": "https://licenta-gestiune-taskuri.firebaseio.com",
+    "project_id": "licenta-gestiune-taskuri",
+    "storage_bucket": "licenta-gestiune-taskuri.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575619786860:android:b53247bf20665b6d",
+        "android_client_info": {
+          "package_name": "com.example.gestiuneangajati"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575619786860-p5gqh8h72u4goejgc2ptdc4jlqt58dlm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8f-IA-wwyEslZlzlL19Am-eS9ixQlcEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575619786860-p5gqh8h72u4goejgc2ptdc4jlqt58dlm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
